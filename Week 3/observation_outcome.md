@@ -10,12 +10,12 @@
 <li>ip routes for each router was viewed using the command: show ip route</li>
 <li>Static ip route was configured for each router using CLI commands: ip route destination_network subnet_mask next_hop_address </li>
 <img src="https://github.com/HarshaR99/Computer-Networks-Lab/blob/master/Week 3/router0.png"/>
-<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week3/router1.png"/>
-<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week3/router2.png"/>
+<img src="https://github.com/HarshaR99/Computer-Networks-Lab/blob/master/Week 3/router1.png"/>
+<img src="https://github.com/HarshaR99/Computer-Networks-Lab/blob/master/Week 3/router2.png"/>
 <br>
 <li>Pinging PC0 from PC1 and PC1 from PC0 gave the required ping responses</li>
-<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week3/ping_pc1_from_pc0.png"/>
-<img src="https://github.com/AnusreeK-2000/CN_1BM18CS017/blob/master/week3/ping_pc0_from_pc1.png"/>
+<img src="https://github.com/HarshaR99/Computer-Networks-Lab/blob/master/Week 3/ping_pc1_from_pc0.png"/>
+<img src="https://github.com/HarshaR99/Computer-Networks-Lab/blob/master/Week 3/ping_pc0_from_pc1.png"/>
 </ul>
 
 ### Learning outcomes
