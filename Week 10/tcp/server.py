@@ -5,7 +5,7 @@ PORT = 65432
 
 print('------------------ Server ------------------') 
 
-with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as sock:
+with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
     sock.bind((HOST, PORT))
     while True:
         data, addr = sock.recvfrom(1024)
